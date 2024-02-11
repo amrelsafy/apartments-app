@@ -1,0 +1,26 @@
+.apartmentCard{
+    width: 33%;
+    margin: 20px;
+    border-radius: 15px;
+    border: 1px solid #ccc;
+}
+
+.apartmentCardImage{
+    width: 100%;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.apartmentCardInfo{
+    padding: 15px;
+    padding-top: 10px;
+}
+
+.apartmentCardTitle{
+    margin-bottom: 10px;
+}
+
+.apartmentCardDesc{
+    font-size: 12px;
+    color: #aaa;
+}
